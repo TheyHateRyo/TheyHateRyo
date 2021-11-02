@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DotKomUK
+- 👀 I’m interested in coding Discord bots and FiveM scrips
+- 🌱 I’m currently learning C#
